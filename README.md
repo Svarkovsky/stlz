@@ -8,7 +8,7 @@
 [![Header-Only Core](https://img.shields.io/badge/header--only%20core-yes-orange.svg)](#quick-start)
 [![Zero Heap Render](https://img.shields.io/badge/zero%20heap%20render-yes-purple.svg)](#performance)
 
-> *"Render 320×240 images on 128×64 screens with 4 KB RAM."*
+> *"Render 320×240 images on 128×64 screens without a full-frame buffer."*
 
 A domain-optimized image codec for memory-constrained embedded systems.  
 Splits framebuffers into independent horizontal stripes, applies delta-XOR stride preprocessing,  
