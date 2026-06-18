@@ -23,7 +23,7 @@ and require a separate written agreement:
 For commercial licensing inquiries:
   ivansvarkovsky@gmail.com
 
-Based on DS-LZ compression engine:
+Based on DS-LZ Compression Engine:
   https://github.com/Svarkovsky/dslz
 
 DS-LZ is based on public-domain LZ77 (Lempel-Ziv, 1977).
